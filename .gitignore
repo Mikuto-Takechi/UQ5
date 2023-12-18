@@ -2,7 +2,6 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content/UnrealQuest5/Sound*
 .vscode
 .vs
 *.VC.db
@@ -13,3 +12,5 @@ Content/UnrealQuest5/Sound*
 *.suo
 *.xcodeproj
 *.xcworkspace
+/Content/UnrealQuest5/Sound*
+/Content/FXVarietyPack*
